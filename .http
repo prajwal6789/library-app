@@ -1,0 +1,8 @@
+POST http://localhost:3000/library
+Content-Type: application/json
+
+{
+    "Bookname":"Computer organisation and Architecture",
+    "Nameoftheissuer":"Bhargav",
+    "Duedate":"20/11/2021"
+}
